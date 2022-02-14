@@ -1,0 +1,70 @@
+.Rectngulo-3105 {
+  background-color: #5bc5f2;
+}
+
+.Iniciar-Sesin {
+  text-align: center;
+  font-family: Heebo;
+  font-size: 22px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #fff;
+}
+
+.Ingresa-tu-correo-y-contrasea {
+  font-family: Heebo;
+  font-size: 9px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #fff;
+}
+
+img.Logotipo-Imagen-Dinamica_Sin_fondo {
+  width: 150px;
+  object-fit: contain;
+}
+
+
+.Correo {
+  font-family: Heebo;
+  font-size: 10px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #fff;
+}
+
+.Contrasea {
+  font-family: Heebo;
+  font-size: 10px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #fff;
+}
+
+.Bienvenido {
+  font-family: Heebo;
+  font-size: 19px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #000;
+}
